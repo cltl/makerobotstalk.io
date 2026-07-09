@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{% include head.html %}
+</head>
+<body>
+{% include nav.html %}
+<main class="wrap">
+{{ content }}
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p>&copy; {{ 'now' | date: "%Y" }} Piek Vossen &middot; Computational Linguistics &amp; Text Mining Lab, Vrije Universiteit Amsterdam</p>
+  </div>
+</footer>
+</body>
+</html>

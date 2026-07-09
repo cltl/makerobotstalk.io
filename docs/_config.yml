@@ -1,0 +1,50 @@
+title: "Make Robots Talk"
+description: "Building social robots that learn from communication — Piek Vossen, CLTL, Vrije Universiteit Amsterdam"
+author: "Piek Vossen"
+
+url: "https://cltl.github.io"
+baseurl: "/makerobotstalk.io"
+
+markdown: kramdown
+permalink: /news/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+nav:
+  - title: Home
+    url: /
+  - title: Leolani
+    url: /robotleolani/
+  - title: News
+    url: /news/
+  - title: Research
+    url: /research/
+  - title: Talks
+    url: /talks/
+  - title: Media Coverage
+    url: /media/
+  - title: Brochures
+    url: /brochures/
+  - title: Publications
+    url: /publications/
+  - title: GitHub
+    url: /github/
