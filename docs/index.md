@@ -6,7 +6,11 @@ permalink: "/"
 ## Communicative robots: the Leolani Principles
 
 <{{ site.baseurl }}/>
-[![]({{ site.baseurl }}/assets/uploads/2018/12/WvdW_Rboto_BW2-kopie-300x167.jpg)]({{ site.baseurl }}/assets/uploads/2018/12/WvdW_Rboto_BW2-kopie.jpg)“Our communicative robot Leolani is driven by curiosity and the need for social contact. Meet her and become one of her many friends. She wants to know all about you, never stops asking questions (unless you ask her to stop), remembers all you said and learns from you about you and about the world.”
+[![]({{ site.baseurl }}/assets/uploads/2018/12/WvdW_Rboto_BW2-kopie-300x167.jpg)]({{ site.baseurl }}/assets/uploads/2018/12/WvdW_Rboto_BW2-kopie.jpg)
+
+“Our communicative robot Leolani is driven by curiosity and the need for social contact. Meet her and become one of her many friends. 
+She wants to know all about you, never stops asking questions (unless you ask her to stop), 
+remembers all you said and learns from you about you and about the world.”
 Why a communicative robot?
 
 1. People make mistakes but robots too. To collaborate, humans and machines need to solve problems together, recognising each other’s weaknesses and limitations and exploiting their strengths. This requires communication in human language and not for people to debug a machine in a program language such as Python.
